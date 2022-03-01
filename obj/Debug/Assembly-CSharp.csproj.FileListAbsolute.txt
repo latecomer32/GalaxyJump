@@ -1,0 +1,2 @@
+C:\Users\son\Documents\Unity\GalaxyJump\GalaxyJump\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\son\Documents\Unity\GalaxyJump\GalaxyJump\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
